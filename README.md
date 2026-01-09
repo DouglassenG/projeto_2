@@ -13,10 +13,6 @@ Este projeto foi desenvolvido para aplicar conceitos de **Automação de Tarefas
 
 Ele demonstra a capacidade de configurar um ambiente onde tarefas repetitivas (como compilar LESS para CSS e comprimir JavaScript) são executadas automaticamente, garantindo um código final limpo e performático.
 
-## 🖼️ Demonstração Visual
-
-*(Espaço reservado para screenshots. Recomendo inserir um print da Landing Page renderizada aqui)*
-
 ## 🛠️ Tecnologias Utilizadas
 
 A arquitetura do projeto foca na separação entre ambiente de desenvolvimento (`src`) e produção (`dist`/`dev`), utilizando:
